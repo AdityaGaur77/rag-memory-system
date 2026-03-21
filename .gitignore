@@ -1,0 +1,4 @@
+rag-env/ 
+*.json 
+__pycache__/ 
+*.pyd 
