@@ -4,6 +4,8 @@ A Retrieval-Augmented Generation pipeline that improves AI memory accuracy.
 Results
 - Baseline LLaMA 3.2 (no RAG): 1/10
 - RAG-enhanced LLaMA 3.2: 8/10
+- When temperature is set to 0: 7/20
+- When k = 3: 8.6/10
 - 80% improvement on long-context recall
 
 Stack
